@@ -30,6 +30,7 @@ sem_destroy(&mutex);
 return 0;
 }
 
+
 void myfb(void *ptr)
 {
 sleep(1);
